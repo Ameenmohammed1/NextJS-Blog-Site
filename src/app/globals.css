@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+bg : #0d0c22
+bgSoft : #2d2d42
+textSoft : #e5e5e5
+btn : #3673fd
+*/
+
+body{
+    background:#0d0c22 ;
+    color:white;
+}
